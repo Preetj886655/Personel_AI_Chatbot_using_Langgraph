@@ -9,6 +9,8 @@ All chat history is stored in a SQLite database 💾 so users can continue their
 You can try the deployed version of this project here:
 
 👉 **[Click here to open the Live App](https://huggingface.co/spaces/Preetj2/Personel_AI_Chatbot)**
+[![Live Demo](https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-yellow)](https://huggingface.co/spaces/Preetj2/Personel_AI_Chatbot)
+
 
 > Deployed using **Hugging Face Spaces** and **Streamlit**
 
