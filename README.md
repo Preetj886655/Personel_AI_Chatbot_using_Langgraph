@@ -4,6 +4,13 @@
 This project is an AI-powered chatbot that allows users to have multiple conversations at the same time 💬.
 It uses LangGraph to manage conversation flow 🔄, Hugging Face models to generate smart replies 🧠, and Streamlit to provide a clean and interactive user interface 🎨.
 All chat history is stored in a SQLite database 💾 so users can continue their conversations anytime.
+## 🚀 Live Demo
+
+You can try the deployed version of this project here:
+
+👉 **[Click here to open the Live App](https://huggingface.co/spaces/Preetj2/Personel_AI_Chatbot)**
+
+> Deployed using **Hugging Face Spaces** and **Streamlit**
 
 
 
