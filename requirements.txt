@@ -1,0 +1,14 @@
+streamlit>=1.30.0
+
+langgraph
+langchain
+langchain-core
+langchain-huggingface
+
+huggingface-hub
+
+pydantic<2.0
+
+sqlite-utils
+
+typing-extensions
